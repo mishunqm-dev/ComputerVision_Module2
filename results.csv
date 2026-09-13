@@ -1,0 +1,21 @@
+Object,Dimension,Actual (in),Estimated (in),Absolute Error (in),Percent Error (%),Distance (m)
+MacBook,Width,12.00,12.76,0.76,6.33,2.44
+MacBook,Height,8.00,8.49,0.49,6.13,2.44
+iPad,Width,10.25,9.01,1.24,12.10,2.44
+iPad,Height,8.00,6.17,1.83,22.88,2.44
+Cabinet door,Width,17.00,15.29,1.71,10.06,2.44
+Cabinet door,Height,36.00,43.46,7.46,20.72,2.44
+Yellow pillow,Width,18.00,22.78,4.78,26.56,2.44
+Yellow pillow,Height,10.50,6.17,4.33,41.24,2.44
+Microwave door,Width,30.00,23.39,6.61,22.03,2.44
+Microwave door,Height,16.00,21.63,5.63,35.19,2.44
+Cutting board,Width,14.00,13.16,0.84,6.00,2.44
+Cutting board,Height,10.00,9.10,0.90,9.00,2.44
+Oven door,Width,30.00,25.32,4.68,15.60,2.44
+Oven door,Height,30.00,39.01,9.01,30.03,2.44
+Refrigerator doors,Width,35.00,41.72,6.72,19.20,2.44
+Refrigerator doors,Height,44.00,49.02,5.02,11.41,2.44
+I AM framed poster,Width,23.00,23.19,0.19,0.83,2.44
+I AM framed poster,Height,34.00,36.99,2.99,8.79,2.44
+The Finer Things book,Width,9.00,11.54,2.54,28.22,2.44
+The Finer Things book,Height,11.00,14.25,3.25,29.55,2.44
