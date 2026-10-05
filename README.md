@@ -1,6 +1,17 @@
 # Smartphone Camera Calibration & Object Measurement
 
-This project demonstrates smartphone camera calibration, perspective-projection-based real-world object measurement, and experimental error analysis.
+This project uses Python and OpenCV to calibrate a smartphone camera and estimate real-world object dimensions using perspective projection. The project evaluates measurement accuracy through experimental error analysis and includes a Streamlit application for presenting calibration and measurement results.
+
+## Technologies Used
+
+- Python
+- OpenCV
+- NumPy
+- Pandas
+- Streamlit
+- Computer Vision
+- Camera Calibration
+- Perspective Projection
 
 ## Features
 
@@ -78,3 +89,12 @@ Install dependencies:
 
 ```bash
 python3 -m pip install -r requirements.txt
+Run the Streamlit application:
+
+```bash
+python3 -m streamlit run app.py
+```
+
+## Project Purpose
+
+This project was developed as part of graduate-level Computer Vision coursework to explore practical applications of camera calibration, perspective projection, real-world object measurement, and experimental error analysis.
