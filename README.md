@@ -89,12 +89,13 @@ Install dependencies:
 
 ```bash
 python3 -m pip install -r requirements.txt
+```
+
 Run the Streamlit application:
 
 ```bash
 python3 -m streamlit run app.py
 ```
-
 ## Project Purpose
 
 This project was developed as part of graduate-level Computer Vision coursework to explore practical applications of camera calibration, perspective projection, real-world object measurement, and experimental error analysis.
